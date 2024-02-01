@@ -59,10 +59,10 @@ export const UI = ({ section, onSectionChange }) => {
                 {sectionItem === "intro"
                   ? "cybertruck"
                   : sectionItem === "cybertruck"
-                  ? "cybertruck armor for your iPhone. More durable than any smartphone glass."
+                  ? "cybertruck ."
                   : sectionItem === "tesla"
-                  ? "Capture your best life moments with its 48MP main tesla."
-                  : "The all-new Action button is a fast track to your favorite feature. Once you set the one you want, just press and hold to launch the action."}
+                  ? "tesla."
+                  : "T."}
               </p>
             </section>
           ))}
